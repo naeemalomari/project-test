@@ -15,7 +15,7 @@ class Header extends React.Component {
   <Navbar bg="dark" variant="dark" className='py-4'>
     <Container>
     <Container>
-      <Navbar.Brand href="home" className='mt-5'>
+      <Navbar.Brand href="app.js">
         <img
           alt=""
           src="https://trello.com/1/cards/6117ccdbc5aaea8ec9c03df9/attachments/6117cd9494bdc903adbbf27b/download/planetPets-01.png"
