@@ -4,13 +4,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 class Header extends React.Component {
-
     render(){
-
-
-
         return (
-
 <>
   <Navbar bg="dark" variant="dark" className='py-4'>
     <Container>
@@ -26,7 +21,6 @@ class Header extends React.Component {
       ZOO PLANET 
       </Navbar.Brand>
     </Container>
-
     <Nav 
       className="mr-auto my-2 my-lg-0">
       <Nav.Link href="home" > Home </Nav.Link>
